@@ -1,16 +1,40 @@
-## Hi there 👋
+## 👋 Hi there, I'm Nutan Singh
 
-<!--
-**NutanCoder/NutanCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Frontend Developer** with 3+ years of experience building modern, responsive, and accessible web applications. I specialize in **React.js**, **Next.js**, and **Tailwind CSS**, and I'm currently exploring more of **GraphQL** and **Supabase**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+
+- **Languages:** HTML, CSS, JavaScript, TypeScript, PHP  
+- **Frameworks:** React.js, Next.js, Laravel  
+- **Styling:** Tailwind CSS, Bootstrap, Material-UI  
+- **State Management:** Redux, Context API  
+- **Databases & BaaS:** Supabase, Firebase, MySQL  
+- **Others:** REST API, GraphQL, Git, i18n, CI/CD
+
+---
+
+### 🚀 Recent Projects
+
+- 🔹 [**Travel Planner App**](https://github.com/NutanCoder/travel-planner): Plan trips with map view, weather, and budget tracking using React + Supabase  
+- 🔹 [**Expense Manager (Laravel)**](https://github.com/NutanCoder/expense-manager): Track and categorize expenses with MySQL backend  
+- 🔹 StayEasy PG Platform (Next.js + Supabase): Full-stack PG/Flat search and management app  
+- 🔹 Kanban Todo Board: Trello-style React app with drag-and-drop and API integration
+
+---
+
+### 📈 GitHub Stats
+
+![Nutan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NutanCoder&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NutanCoder&layout=compact)
+
+---
+
+### 📫 Let's Connect
+
+- 🌐 [Portfolio Website](https://portfolio-nutan.vercel.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nutan-singh-484018194/)
+- 🛠️ [GitHub](https://github.com/NutanCoder)
+
+---
