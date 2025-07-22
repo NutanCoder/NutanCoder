@@ -2,8 +2,6 @@
 
 I'm a passionate **Frontend Developer** with 3+ years of experience building modern, responsive, and accessible web applications. I specialize in **React.js**, **Next.js**, and **Tailwind CSS**, and I'm currently exploring more of **GraphQL** and **Supabase**.
 
----
-
 ### 🔧 Tech Stack
 
 - **Languages:** HTML, CSS, JavaScript, TypeScript, PHP  
@@ -16,7 +14,6 @@ I'm a passionate **Frontend Developer** with 3+ years of experience building mod
 
 ### 📈 GitHub Stats
 
-![Nutan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NutanCoder&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NutanCoder&layout=compact)
 
 
