@@ -13,23 +13,12 @@ I'm a passionate **Frontend Developer** with 3+ years of experience building mod
 - **Databases & BaaS:** Supabase, Firebase, MySQL  
 - **Others:** REST API, GraphQL, Git, i18n, CI/CD
 
----
-
-### 🚀 Recent Projects
-
-- 🔹 [**Travel Planner App**](https://github.com/NutanCoder/travel-planner): Plan trips with map view, weather, and budget tracking using React + Supabase  
-- 🔹 [**Expense Manager (Laravel)**](https://github.com/NutanCoder/expense-manager): Track and categorize expenses with MySQL backend  
-- 🔹 StayEasy PG Platform (Next.js + Supabase): Full-stack PG/Flat search and management app  
-- 🔹 Kanban Todo Board: Trello-style React app with drag-and-drop and API integration
-
----
 
 ### 📈 GitHub Stats
 
 ![Nutan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NutanCoder&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NutanCoder&layout=compact)
 
----
 
 ### 📫 Let's Connect
 
@@ -37,4 +26,3 @@ I'm a passionate **Frontend Developer** with 3+ years of experience building mod
 - 💼 [LinkedIn](https://www.linkedin.com/in/nutan-singh-484018194/)
 - 🛠️ [GitHub](https://github.com/NutanCoder)
 
----
