@@ -22,4 +22,5 @@ I'm a passionate **Frontend Developer** with 3+ years of experience building mod
 - 🌐 [Portfolio Website](https://portfolio-nutan.vercel.app)
 - 💼 [LinkedIn](https://www.linkedin.com/in/nutan-singh-484018194/)
 - 🛠️ [GitHub](https://github.com/NutanCoder)
+- 📄 [Résumé](https://portfolio-nutan.vercel.app/Nutan-Resume.pdf)
 
